@@ -1,0 +1,16 @@
+{
+  "name": "one-year-review",
+  "version": "1.0.0",
+  "description": "code review for one year anniversary",
+  "main": "",
+  "scripts": {
+    "test": "none"
+  },
+  "author": "sarah binion <sbinion@nerdery.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0"
+  }
+}
